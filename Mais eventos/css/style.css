@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+html, body{
+    height: 100%;
+}
+
+.box{
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: #ccc;
+}
